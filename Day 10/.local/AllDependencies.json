@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "Day 10",
       "projectName": "Day 10",
-      "projectPath": "C:\\Users\\angel sherin\\Documents\\UiPath\\Day 10\\.local",
+      "projectPath": "C:\\Users\\angel sherin\\Documents\\GitHubFiles\\my-bot\\Day 10\\.local",
       "packagesPath": "C:\\Users\\angel sherin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel sherin\\Documents\\UiPath\\Day 10\\.local"
+      "outputPath": "C:\\Users\\angel sherin\\Documents\\GitHubFiles\\my-bot\\Day 10\\.local"
     },
     "frameworks": {
       "net461": {
